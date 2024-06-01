@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.card-cont-match {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e293b;
+  height: 500px;
+  width: 320px;
+  margin: 15px;
+  padding: 10px;
+  color: white;
+  border-radius: 20px;
+}
+.logo-style {
+  height: 300px;
+  width: 220px;
+}

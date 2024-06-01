@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.card-cont-op {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 20px;
+  opacity: 0.9;
+  padding: 50px;
+  border: 2px solid white;
+  border-radius: 20px;
+  background-color: #ffffff33;
+  align-items: center;
+}
+.imgstyle-card {
+  opacity: 0.9;
+  height: 100px;
+  width: 100px;
+}
+.parastyle {
+  color: white;
+}

@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.bg-cont {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+/* Write your CSS here */
+.matcheslistcont {
+  display: grid;
+  grid-template-columns: auto auto;
+}
